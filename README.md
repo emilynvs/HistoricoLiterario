@@ -23,4 +23,4 @@ Criar uma **biblioteca pessoal e virtual**, possibilitando ao usuário:
 - Persistência em arquivo ou banco de dados (ainda não decicido)
 
 ## 🚧 Status
-Projeto em desenvolvimento inicial
+Projeto em desenvolvimento inicial, MYSQL está integrado e é possível salvar livros

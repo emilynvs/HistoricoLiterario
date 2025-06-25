@@ -20,7 +20,7 @@ Criar uma **biblioteca pessoal e virtual**, possibilitando ao usuário:
 - Spring Boot (futuramente)
 - POO
 - Padrão MVC
-- Persistência em arquivo ou banco de dados (ainda não decicido)
+- Persistência banco de dados (MYSQL)
 
 ## 🚧 Status
 Projeto em desenvolvimento inicial, MYSQL está integrado e é possível salvar livros
